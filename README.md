@@ -1,2 +1,2 @@
-# CursosPython
-Ejercicios de Python LaunchX
+# CursoLaunchX
+Ejercicios generados durante el curso
